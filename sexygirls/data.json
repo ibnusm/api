@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "sexy-girls-1",
+        "img": "./src/sexy1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "sexy-girls-2",
+        "img": "./src/sexy2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "sexy-girls-3",
+        "img": "./src/sexy3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "sexy-girls-4",
+        "img": "./src/sexy4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "sexy-girls-5",
+        "img": "./src/sexy5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "sexy-girls-6",
+        "img": "./src/sexy6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "sexy-girls-7",
+        "img": "./src/sexy7.jpg"
+    }
+]
