@@ -1,0 +1,33 @@
+{
+  "name": "nulzrest",
+  "version": "1.8.0",
+  "license": "GNU",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.0",
+    "chalk-animation": "1.6.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.4.2",
+    "express": "4.17.3",
+    "form-data": "^4.0.0",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1"
+  },
+  "env": {
+    "node": true
+  },
+  "description": "Simple RestApi",
+  "main": "api/index.js",
+  "keywords": [
+    "apı",
+    "API",
+    "NuLz",
+    "nulz",
+    "rest",
+    "tiktok"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusm/api.git"
+  }
+}
